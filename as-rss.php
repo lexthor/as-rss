@@ -1,8 +1,8 @@
 <?php
 /**
- * Plugin Name: RSS Before Footer (AS)
- * Description: Minimal scaffold: metabox to save RSS URLs + options. No frontend output yet.
- * Version: 0.1.0
+ * Plugin Name: Custom Rss Feeds
+ * Description: Attach one or more RSS feeds to posts/pages/CPTs and taxonomy terms; auto-display combined items near the footer. Per-entity options + caching.
+ * Version: 1.0.0
  * Author: Alexandru S.
  */
 
